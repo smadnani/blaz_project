@@ -1,0 +1,26 @@
+#download {
+  width: 100%;
+  background-color: #E7B86E;
+  color: #FFF;
+  height: auto;
+  padding-bottom: 13%; }
+  #download #dlink {
+    padding-top: 5%; }
+  #download h2 {
+    font-size: 3em;
+    font-weight: 300;
+    padding-top: 10%; }
+  #download p {
+    font-size: 1em;
+    padding-top: 5%; }
+  #download a {
+    background-color: transparent;
+    padding: 15px 50px;
+    border: 3px solid #FFF;
+    border-radius: 3px;
+    color: #FFF;
+    font-size: 1.1em; }
+    #download a, #download a:hover {
+      text-decoration: none; }
+
+/*# sourceMappingURL=download.css.map */

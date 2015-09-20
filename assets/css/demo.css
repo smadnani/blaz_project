@@ -1,0 +1,25 @@
+#demo {
+  width: 100%;
+  height: 70vh; }
+  #demo #dbutton {
+    text-align: center;
+    padding-top: 45px; }
+  #demo h2 {
+    padding-top: 7%;
+    font-size: 1em;
+    font-weight: bold;
+    color: #999EAD;
+    text-transform: capitalize; }
+  #demo p {
+    color: #999EAD;
+    font-size: 0.9em;
+    font-weight: 300;
+    padding-top: 3%; }
+  #demo a {
+    color: #FFF;
+    background-color: #F4967C;
+    padding: 15px 50px;
+    border-radius: 3%;
+    font-size: 1em; }
+
+/*# sourceMappingURL=demo.css.map */

@@ -1,3 +1,41 @@
-
+#landing {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../images/landing.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  color: #FFFFFF;
+  text-align: center; }
+  #landing .landing-container {
+    max-width: 50vw;
+    max-height: 100vh; }
+  #landing .gstarted {
+    position: relative;
+    padding-top: 30%; }
+  #landing .playbutton {
+    margin-top: 10%;
+    border: 7px solid #FFF;
+    padding: 20px 20px;
+    display: inline-block;
+    border-radius: 50%; }
+  #landing h2 {
+    padding-top: 15vh;
+    font-size: 4em;
+    font-weight: 300; }
+  #landing p {
+    padding-top: 3vh;
+    color: #C2D7D9;
+    font-style: italic; }
+  #landing span {
+    font-size: 2em; }
+  #landing a {
+    color: #FFF;
+    background-color: #7DCCC7;
+    padding: 20px 70px;
+    border-radius: 3px;
+    font-size: 1.3em; }
+    #landing a, #landing a:hover {
+      text-decoration: none; }
 
 /*# sourceMappingURL=landing.css.map */

@@ -4,8 +4,10 @@ module.exports = function(grunt){
       dist: {
         files: {
           'assets/css/landing.css' : 'assets/css/src/landing.scss',
-          'assets/css/common.css' : 'assets/css/src/common.scss'
-
+          'assets/css/common.css' : 'assets/css/src/common.scss',
+          'assets/css/download.css' : 'assets/css/src/download.scss',
+          'assets/css/reviews.css' : 'assets/css/src/reviews.scss',
+          'assets/css/demo.css' : 'assets/css/src/demo.scss'
         }
       }
     },
@@ -23,7 +25,10 @@ module.exports = function(grunt){
           'assets/css/style.min.css':
           [
             'assets/css/common.css',
-            'assets/css/landing.css'
+            'assets/css/landing.css',
+            'assets/css/download.css',
+            'assets/css/reviews.css',
+            'assets/css/demo.css'
           ]
         }
       }
