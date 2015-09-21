@@ -7,7 +7,8 @@ module.exports = function(grunt){
           'assets/css/common.css' : 'assets/css/src/common.scss',
           'assets/css/download.css' : 'assets/css/src/download.scss',
           'assets/css/reviews.css' : 'assets/css/src/reviews.scss',
-          'assets/css/demo.css' : 'assets/css/src/demo.scss'
+          'assets/css/demo.css' : 'assets/css/src/demo.scss',
+          'assets/css/footer.css' : 'assets/css/src/footer.scss'
         }
       }
     },
@@ -28,7 +29,8 @@ module.exports = function(grunt){
             'assets/css/landing.css',
             'assets/css/download.css',
             'assets/css/reviews.css',
-            'assets/css/demo.css'
+            'assets/css/demo.css',
+            'assets/css/footer.css'
           ]
         }
       }
