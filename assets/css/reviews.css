@@ -1,8 +1,20 @@
-#reviews {
-  height: 70vh; }
-  #reviews h2 {
-    font-size: 2.0em;
-    font-weight: 300;
-    padding-bottom: 40%; }
+#reviews .carousel {
+  max-height: 60vh;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+  position: relative; }
+  #reviews .carousel .item .carousel-caption {
+    position: absolute;
+    top: 20px; }
+    #reviews .carousel .item .carousel-caption #userimg {
+      max-width: 200px;
+      max-height: 200px;
+      display: inline-block;
+      text-align: center; }
+#reviews h2 {
+  font-size: 2.0em;
+  font-weight: 300;
+  top: 50px; }
 
 /*# sourceMappingURL=reviews.css.map */

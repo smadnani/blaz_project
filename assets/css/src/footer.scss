@@ -8,4 +8,27 @@
     font-size: 0.9em;
     font-weight: 300;
   }
+
+  ul{
+    padding-top: 60px;
+    list-style-type: none;
+    li{
+      padding-top: 15px;
+      font-size: 0.9em;
+      a{
+        color: #FFF;
+        &,&:hover{
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+  h6{
+    text-transform: uppercase;
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 0.9em;
+  }
 }

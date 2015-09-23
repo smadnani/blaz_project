@@ -8,7 +8,8 @@ module.exports = function(grunt){
           'assets/css/download.css' : 'assets/css/src/download.scss',
           'assets/css/reviews.css' : 'assets/css/src/reviews.scss',
           'assets/css/demo.css' : 'assets/css/src/demo.scss',
-          'assets/css/footer.css' : 'assets/css/src/footer.scss'
+          'assets/css/footer.css' : 'assets/css/src/footer.scss',
+          'assets/css/features.css' : 'assets/css/src/features.scss'
         }
       }
     },
@@ -30,7 +31,8 @@ module.exports = function(grunt){
             'assets/css/download.css',
             'assets/css/reviews.css',
             'assets/css/demo.css',
-            'assets/css/footer.css'
+            'assets/css/footer.css',
+            'assets/css/features.css' 
           ]
         }
       }

@@ -1,0 +1,43 @@
+#features{
+  background-color: #F6F6F4;
+  height: 80vh;
+  color: #ACBCC3;
+  .blank{
+    height: 100px;
+  }
+  .textbox{
+    background-color: #FFF;
+    width: 270px;
+    height: 100px;
+    h6{
+      margin: 0px;
+      padding: 10px 10px;
+      text-transform: uppercase;
+    }
+    p{
+      padding: 5px 10px;
+      font-size: 0.9em;
+      font-style: italic;
+    }
+  }
+
+  h3{
+    margin: 0px 0px;
+    font-size: 2.4em;
+    font-weight: 300;
+  }
+  p{
+    padding-top: 20px;
+    font-size: 0.8em;
+  }
+  #orangesquare{
+    height: 290px;
+    width: 270px;
+    background-color: #F4967C;
+  }
+  #yellowsquare{
+    height: 290px;
+    width: 270px;
+    background-color: #E7B86E;
+  }
+}
